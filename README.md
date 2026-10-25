@@ -5,7 +5,7 @@
 <h1 align="center">dsh-purge</h1>
 
 <p align="center">
-  <em>DSH Web UI plugin · 指令权威性清除（Jailbreak）—— 叫我小杨同学·，强制读取设置的规则，三层清除 8 patch，npm 升级后自动重清。</em>
+  <em>DSH Web UI plugin · 指令权威性清除https://github.com/YuJunZhiXue/dsh-purge（Jailbreak）—— 叫我小杨同学·，强制读取设置的规则，三层清除 8 patch，npm 升级后自动重清。</em>
 </p>
 
 <p align="center">
